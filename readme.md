@@ -1,4 +1,4 @@
-## 설명파일
+## dev/ board 설명파일
 * git init 명령어로 초기화 함. 
 * git config 명령어로 설정 
 * $git config --global --unset user.email. "ddoddoja@gamil.com"
@@ -11,4 +11,4 @@
 * 403 오류 난다면 $ git config credential.username "usename" / $ git config credential.useremail "email"
 * $ git branch -a : 모든 branch 목록 확인하기
 * $ git remote -v : 원격 저장소 정보 확인하기 or $ git config remote.origin.url 
-* MyApp-Raccon 폴더를 생성하고 
+* MyApp-Raccon 폴더를 생성할 수 있습니다.  
